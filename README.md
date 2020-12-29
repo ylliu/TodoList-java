@@ -19,7 +19,7 @@ Item <itemIndex> added
 todo done <itemIndex>
 
 
-Item <itemIndex> done.
+Item <itemIndex> done
 ```
 
 + 查看 Todo 列表，缺省情况下，只列出未完成的 Todo 项
