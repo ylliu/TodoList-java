@@ -1,7 +1,6 @@
 # TodoList-java
-TodoList practise    
-
-from From https://time.geekbang.org/column/intro/382    
+郑烨老师的代码之丑课程的练习，课程链接：    
+https://time.geekbang.org/column/intro/382       
 
 ## 构建
 运行Client下的main函数，循环输入指令   
