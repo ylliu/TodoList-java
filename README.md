@@ -1,5 +1,5 @@
 # TodoList-java
-郑烨老师的代码之丑课程的练习，课程链接：    
+郑晔老师的代码之丑课堂练习，课程链接：    
 https://time.geekbang.org/column/intro/382       
 
 ## 构建
@@ -9,7 +9,7 @@ todo done <index>
 todo list    
 todo list --all   
 
-## 运行效果    
+## 第一阶段运行效果    
 todo add play1    
 1.play1    
 
